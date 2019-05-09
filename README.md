@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 services: storage
 platforms: xamarin
@@ -41,3 +42,8 @@ Note: You can also run the sample with Xamarin Studio, but only the Android and 
 - [How to use Blob Storage from iOS](https://azure.microsoft.com/en-us/documentation/articles/storage-ios-how-to-use-blob-storage/)
 - [Blob Service Concepts](http://msdn.microsoft.com/en-us/library/dd179376.aspx)
 - [Blob Service REST API](http://msdn.microsoft.com/en-us/library/dd135733.aspx)
+=======
+# XamarinAndroid-ImageUploader
+Requires: https://github.com/rmesquit/OCR-parser
+<p>This solution may contain more packages than necessary.</p>
+>>>>>>> 4fda639c86c24b4747d5d83c338f77f19db3e1ed
