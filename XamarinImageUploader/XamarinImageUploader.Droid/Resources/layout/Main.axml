@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <Button
+        android:id="@+id/Select"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Pick Image" />
+    <Button
+        android:id="@+id/TestAPI"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Test API" />
+    <Button
+        android:id="@+id/Show"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Take Picture" />
+	<TextView
+        android:id="@+id/OCR_Result"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="OCR Result" 
+		android:gravity="center"/>
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/RootImageView" />
+</LinearLayout>
