@@ -10,5 +10,9 @@
 * Windows
 * Visual Studio Community Edition
 
+## Installation Instructions
+* To run this app, change the target framework to .NET 7.0 in all project modules
+* Go to Visual Studio > Project Properties > Build > General > Target framework
+
 ## Terminology
 * OCR : Optical Character Recognition
