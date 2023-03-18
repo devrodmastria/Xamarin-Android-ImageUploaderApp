@@ -9,3 +9,6 @@
 
 ## Description
 * This Xamarin app works with the above OCR package to extract characters from images uploaded via the app.
+
+## Terminology
+* OCR : Optical Character Recognition
